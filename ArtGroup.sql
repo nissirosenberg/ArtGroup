@@ -2,6 +2,7 @@
 "Nissi's Art" 
 I’m an art teacher, I give art lessons every Sunday and I also sell supplies to my students. I need:
 The girls’ names, their telephone number, which group they’re in, how many lessons they already came, the total cost (they pay per lesson) they have to pay for their lessons.
+I update after each session who came, and what their new balance is.
 In the beginning, they each need to buy a supplies package, depending on what she is learning. So far, I have 2 packages: one for painting and one for pastels. The painting
  package is $70, and the pastel package is $12. 
  I also want to know how much I paid for each package so that I can see how much profit I made.
@@ -9,11 +10,12 @@ In the beginning, they each need to buy a supplies package, depending on what sh
  I also want to see if she is still current, if yes, then put in the column a *, and if she’s not current anymore then give her a -.
 
  What I need in reports:
-  1) I need a a report that separates the girls between the groups they're in. I want it to be separate tables.
-  2) Total of how much profit I'm making(after expenses of supplies), total of how much I'm owed, and total of how much I was paid already
-  3) Order the girls that I see first all the girls in the pastel group, then from the paint group(doesn't matter which one), then sort them by who came the most lessons and who came the least.
-  4) How many students do I currently have?
-  5) I want a report of who is on top of payment and who's not. If a girl owes more than half of the total she needs to pay, then she's not on top of it.
+  1) I need an update statement for each girl for every lesson she comes.
+  2) I need a a report that separates the girls between the groups they're in. I want it to be separate tables(meaning in the report, it should come up as 3 separate tables. (3 selects.)).
+  3) Total of how much profit I'm making(after expenses of supplies), total of how much I'm owed, and total of how much I was paid already
+  4) Order the girls that I see first all the girls in the pastel group, then from the paint group(doesn't matter which one), then sort them by who came the most lessons and who came the least.
+  5) How many students do I currently have?
+  6) I want a report of who is on top of payment and who's not. If a girl owes more than half of the total she needs to pay, then she's not on top of it.
 
 How much do you charge per lesson? 
 For paint I charge $32.
